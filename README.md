@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,4&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
@@ -79,12 +79,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam02i&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da" />
+</picture>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=radical&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de" />
+</picture>
 
 </div>
 
@@ -92,14 +105,18 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true" />
+</picture>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,4&height=3&section=footer" width="100%"/>
 </div>
 
 <div align="center">
