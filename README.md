@@ -4,14 +4,14 @@
 
 Computer Science & Engineering (AI & ML) · SRM Institute of Science and Technology
 
-[![Email](https://img.shields.io/badge/Email-tripathy.samiksha%40gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:tripathy.samiksha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiksha--tripathy-0969da?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiksha-tripathy-399933328)
-[![Location](https://img.shields.io/badge/Location-Delhi%20NCR-0969da?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-tripathy.samiksha%40gmail.com-ec4899?style=flat-square&logo=gmail&logoColor=white)](mailto:tripathy.samiksha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiksha--tripathy-3b82f6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiksha-tripathy-399933328)
+[![Location](https://img.shields.io/badge/Location-Delhi%20NCR-ec4899?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,4&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ec4899,8b5cf6,3b82f6&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
@@ -112,12 +112,16 @@ Volunteered with several local NGOs, contributing time to community-focused init
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&hide_border=false&bg_color=1b4332&title_color=ffb6c1&icon_color=ff8fab&text_color=e8f5e9&border_color=ffb6c1"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&hide_border=false&bg_color=1b4332&title_color=ffb6c1&text_color=e8f5e9&border_color=ffb6c1"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de"/>
+<img src="https://streak-stats.demolab.com?user=sam02i&hide_border=false&background=1b4332&border=ffb6c1&ring=ffb6c1&fire=ff8fab&currStreakLabel=ffb6c1&sideLabels=e8f5e9&currStreakNum=e8f5e9&sideNums=e8f5e9&dates=e8f5e9"/>
+
+<br/>
+
+<img width="100%" src="https://ghchart.rshah.org/fe428e/sam02i"/>
 
 </div>
 
@@ -125,14 +129,14 @@ Volunteered with several local NGOs, contributing time to community-focused init
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,4&height=3&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ec4899,8b5cf6,3b82f6&height=3&section=footer" width="100%"/>
 </div>
 
 <div align="center">
