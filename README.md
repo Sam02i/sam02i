@@ -1,8 +1,12 @@
 <div align="center">
 
-# Samiksha
+# Samiksha Tripathy
 
-### Computer Science Student · SRM Institute of Science and Technology
+Computer Science & Engineering (AI & ML) · SRM Institute of Science and Technology
+
+[![Email](https://img.shields.io/badge/Email-tripathy.samiksha%40gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:tripathy.samiksha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiksha--tripathy-0969da?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiksha-tripathy-399933328)
+[![Location](https://img.shields.io/badge/Location-Delhi%20NCR-0969da?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -14,25 +18,54 @@
 
 ## About
 
-- Computer Science student at **SRM Institute of Science and Technology**
-- Focused on **Machine Learning**, **DSA**, and real-world problem solving
-- Skilled in **Python**, **C++**, **OOP**, and **AutoCAD** — building ML and backend projects
-- Quick learner with a strong interest in dynamic, fast-moving tech environments
-- Currently strengthening skills in ML and system design
+- B.Tech student in Computer Science & Engineering, AI & ML specialization, at **SRM Institute of Science and Technology** (Expected Aug 2028), GPA **9.34/10**
+- Focused on **Machine Learning**, **Data Structures & Algorithms**, and applied, real-world problem solving
+- Experienced across the full stack: model development, backend integration, and production-ready UI
+- Actively engaged in community volunteering and social outreach initiatives
 
 <br/>
 
-## Tech Stack
+## Education
+
+**SRM Institute of Science and Technology** — Kattankulathur, Tamil Nadu
+B.Tech, Computer Science & Engineering — AI & ML Specialization | Expected Aug 2028 | GPA: 9.34/10
+Relevant coursework: Data Structures & Algorithms, Machine Learning, Database Management Systems, Computer Networks, Operating Systems
+
+<br/>
+
+## Projects
+
+**Anime Recommendation Platform** — React, Node.js, AniList & MAL APIs *(June 2026)*
+Built a full-stack anime recommendation platform with a React front end, integrating live data from the AniList and MyAnimeList (MAL) APIs. Designed a polished, production-grade UI/UX delivering personalized real-time recommendations based on user preferences.
+
+**Heart Disease Prediction Model** — Python, Scikit-learn, Pandas, NumPy *(April 2026)*
+Built a supervised machine learning classification model in Jupyter Notebook to predict heart disease risk from patient health data, connected to a front-end interface enabling real-time predictions from user input.
+
+**Cache Management Strategy Research** — Python, Machine Learning *(March 2026)*
+Researched an ML-based cache management approach, benchmarking it against standard LRU and LFU baseline algorithms. Evaluated approaches on latency and hit-rate performance to identify efficiency gains over traditional caching strategies.
+
+<br/>
+
+## Technical Skills
 
 <details open>
-<summary><b>Languages & Web</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Web</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
 
@@ -40,38 +73,38 @@
 <summary><b>Machine Learning & Data</b></summary>
 <br/>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Design & Creative Tools</b></summary>
+<summary><b>Tools</b></summary>
 <br/>
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>Tools & Platforms</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Certifications
 
-</details>
+- Supervised Machine Learning: Regression and Classification — Andrew Ng, DeepLearning.AI (Coursera)
+
+<br/>
+
+## Leadership & Activities
+
+**Community Volunteer** — Multiple Local NGOs *(Ongoing)*
+Volunteered with several local NGOs, contributing time to community-focused initiatives and social outreach programs.
+
+**Interests:** Digital art & painting, graphic design, and website/UI design
 
 <br/>
 
@@ -79,25 +112,12 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da" />
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam02i&show_icons=true&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam02i&layout=compact&include_all_commits=false&count_private=false&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de" />
-</picture>
+<img src="https://nirzak-streak-stats.vercel.app/?user=sam02i&theme=default&hide_border=false&border=d0d7de"/>
 
 </div>
 
@@ -105,11 +125,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true" />
-</picture>
+![](https://github-contributor-stats.vercel.app/api?username=sam02i&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 </div>
 
