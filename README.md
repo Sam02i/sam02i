@@ -110,9 +110,8 @@ Volunteered with several local NGOs, contributing time to community-focused init
 
 <br/>
 
-## Space Shooter
 
-## 🤝 Connect with me
+## Connect with me
 
 <br/>
 
@@ -134,6 +133,8 @@ Feel free to explore my repositories, contribute if you like, or reach out for c
 
 <br/>
 <br/>
+
+## Space Shooter
 
 <img src="game.gif" width="100%" alt="A space shooter game generated from my GitHub contribution graph"/>
 
