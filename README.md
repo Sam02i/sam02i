@@ -108,6 +108,16 @@ Volunteered with several local NGOs, contributing time to community-focused init
 
 <br/>
 
+## Space Shooter
+
+<div align="center">
+
+<img src="game.gif" width="100%" alt="A space shooter game generated from my GitHub contribution graph"/>
+
+</div>
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
