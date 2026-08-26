@@ -16,6 +16,26 @@ Computer Science & Engineering (AI & ML) · SRM Institute of Science and Technol
 
 <br/>
 
+## 🤝 Connect with me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathy.samiksha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-tripathy-399933328/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sam26418082481)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tripathy.samiksha)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="terminal.gif" width="100%" alt="Retro green terminal animation"/>
+</div>
+
+<br/>
+
 ## About
 
 - B.Tech student in Computer Science & Engineering, AI & ML specialization, at **SRM Institute of Science and Technology** (Expected Aug 2028), GPA **9.34/10**
