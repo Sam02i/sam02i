@@ -31,7 +31,7 @@ Computer Science & Engineering (AI & ML) · SRM Institute of Science and Technol
 <br/>
 
 <div align="center">
-  <img src="terminal.gif" width="100%" alt="Retro green terminal animation"/>
+  <img src="_.gif" width="100%" alt="Retro green terminal animation"/>
 </div>
 
 <br/>
