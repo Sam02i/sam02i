@@ -114,6 +114,12 @@ Volunteered with several local NGOs, contributing time to community-focused init
 
 ## 🤝 Connect with me
 
+<br/>
+
+<div align="center">
+
+<img src="_.gif" width="100%" alt="Retro green terminal animation"/>
+
 <div align="center">
 
 Feel free to explore my repositories, contribute if you like, or reach out for collaborations. I'm always excited to work on interesting projects with people who share similar passions!
@@ -125,12 +131,6 @@ Feel free to explore my repositories, contribute if you like, or reach out for c
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tripathy.samiksha)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="_.gif" width="100%" alt="Retro green terminal animation"/>
 
 <br/>
 <br/>
