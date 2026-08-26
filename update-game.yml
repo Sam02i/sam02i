@@ -1,0 +1,47 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # required by gh-space-shooter's amend logic
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install gh-space-shooter
+        run: |
+          python -m pip install --upgrade pip
+          pip install gh-space-shooter
+
+      - name: Apply pink theme
+        run: python .github/scripts/patch_pink.py
+
+      - name: Generate game
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh-space-shooter ${{ github.repository_owner }} \
+            --output game.gif \
+            --strategy random \
+            --fps 30
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add game.gif
+          git diff --staged --quiet || git commit -m "Update space shooter game GIF"
+          git push
