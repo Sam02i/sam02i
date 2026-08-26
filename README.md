@@ -30,12 +30,6 @@ Computer Science & Engineering (AI & ML) · SRM Institute of Science and Technol
 
 <br/>
 
-<div align="center">
-  <img src="_.gif" width="100%" alt="Retro green terminal animation"/>
-</div>
-
-<br/>
-
 ## About
 
 - B.Tech student in Computer Science & Engineering, AI & ML specialization, at **SRM Institute of Science and Technology** (Expected Aug 2028), GPA **9.34/10**
@@ -131,6 +125,11 @@ Volunteered with several local NGOs, contributing time to community-focused init
 ## Space Shooter
 
 <div align="center">
+
+<img src="_.gif" width="100%" alt="Retro green terminal animation"/>
+
+<br/>
+<br/>
 
 <img src="game.gif" width="100%" alt="A space shooter game generated from my GitHub contribution graph"/>
 
